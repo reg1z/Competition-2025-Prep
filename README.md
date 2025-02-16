@@ -1,14 +1,11 @@
-# NCAE-2025-Prep
+# NCAE 2025 Prep
+**(⭐ = really important omg)**
+
 ## Relevant Links
 - Competition Rules https://www.ncaecybergames.org/rules/
 - NCAE Discord https://discord.ncaecybergames.org/
 - Questions answered by NCAE staff (Discord)
 	- "What is the line where an online service must be disclosed?" https://discord.com/channels/624969095292518401/1339009691044544542
-	- 
-
----
-
-**(⭐ = really important omg)**
 
 ## Pre-Game
 ### SPICE config | Shared Clipboard (copy/paste) & Automatic Screen Resizing
@@ -30,8 +27,6 @@ Commands:
 sudo systemctl enable spice-vdagent
 sudo systemctl start spice-vdagent
 ```
-
----
 
 ## Potential System Hardenings
 
