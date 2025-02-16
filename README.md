@@ -2,6 +2,7 @@
 **(⭐ = really important omg)**
 
 ## Relevant Links
+- NCAE Sandbox Playlist https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M
 - Competition Rules https://www.ncaecybergames.org/rules/
 - NCAE Discord https://discord.ncaecybergames.org/
 - Questions answered by NCAE staff (Discord)
