@@ -29,7 +29,7 @@ sudo systemctl enable spice-vdagent
 sudo systemctl start spice-vdagent
 ```
 
-## Potential System Hardenings
+## Potential System Hardening
 
 ### Least privilege
 - Configure user accounts with unique secure passwords for each member of the team?
