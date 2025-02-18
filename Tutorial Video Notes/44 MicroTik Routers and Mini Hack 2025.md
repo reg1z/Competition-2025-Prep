@@ -1,0 +1,27 @@
+# MicroTik routers
+- hierarchical command structure
+	- tab completion → list subcommands
+	- important configuration categories
+		- /ip
+			- /ip address print
+			- /ip route print
+			- /ip service print → shows active services the router is running. These are reachable within the browser at different ports
+				- Ask yourself, what are the other ways to access this device? What are the security implications of doing so?
+			- 
+		- /interface
+	- tools
+		- /ping
+- Web interface - `http://172.20.46.1:8080`
+	- During the NCAE competition, you will be provided with access to a default gateway/router that grants access to the external internet. This will need to be configured in the web interface.
+	- There will also be external DNS servers
+- Other things to know
+	- winbox
+	- services
+		- telnet
+		- ftp
+		- www
+		- ssh
+		- www-ssl
+		- api
+		- winbox
+		- api-ssl
