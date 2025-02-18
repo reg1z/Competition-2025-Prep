@@ -4,6 +4,8 @@ This repository is an [Obsidian](https://obsidian.md/) Vault aimed at helping **
 
 To view and edit these notes, you can download the repo and open them in any markdown editor/viewer you'd like - though **they are intended to be opened as a vault within Obsidian**.
 
+This page (the README) is intended to be the homepage within this vault. You can access all pages from here.
+
 ---
 
 > [!warning]+ WARNING - Practice Using the Correct Environment!
