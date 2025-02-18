@@ -1,82 +1,46 @@
-# NCAE 2025 Prep
-**(⭐ = really important omg)**
+# README
 
-## Relevant Links
-- NCAE Sandbox Playlist https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M
-- Competition Rules https://www.ncaecybergames.org/rules/
-- NCAE Discord https://discord.ncaecybergames.org/
-- Questions answered by NCAE staff (Discord)
-	- "What is the line where an online service must be disclosed?" https://discord.com/channels/624969095292518401/1339009691044544542
+This repository is an [Obsidian](https://obsidian.md/) Vault aimed at helping **Blue Teams** prepare for the [NCAE Cyber Games](https://www.ncaecybergames.org). It's currently a work in progress and some notes are incomplete.
 
-## Pre-Game
-### SPICE config | Shared Clipboard (copy/paste) & Automatic Screen Resizing
+To view and edit these notes, you can download the repo and open them in any markdown editor/viewer you'd like - though **they are intended to be opened as a vault within Obsidian**.
 
-**TO PREPARE:**
-- Install `virt-viewer` on the PC / VM you'll be using to compete.
-	- **Link (scroll down):** https://virt-manager.org/download
-		- .MSI installer for Windows
-		- .tar.xz for UNIX
-	- Available on the default repos in most popular Linux distros via package manager install (`apt` / `yum` / `dnf` / `pacman` / etc... )
+---
 
-**ON GAME DAY:**
-- Enable the **spice-vdagent** on necessary hosts.
-	- ***NOTE:** Only applied to Kali hosts in both Mini Hack challenges (this could be different on game day)*
-- It should work once enabled after relogging in.
-- ⭐ How to make sure the spice-vdagent is enabled systemwide in the background, available to all users logging in? Or is it per user account?
-Commands:
-```bash
-sudo systemctl enable spice-vdagent
-sudo systemctl start spice-vdagent
-```
+> [!warning]+ WARNING - Practice Using the Correct Environment!
+> **The competition this year is going to be using a MicroTik router, *NOT CentOS* (as it is no longer maintained)**. This was announced on the NCAE Discord.
+>
+> A new video was posted on the NCAE channel that goes over the new Mini Hack in the same way as the old one. It's very similar to the first Mini Hack and approachable even if you haven't watched the rest of the playlist after the video for the first Mini Hack.
+> - https://www.youtube.com/watch?v=gu5A2yCITRs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=47
+> 
 
-## Potential System Hardening
+> [!list] Relevant Links
+> - NCAE Sandbox Playlist: https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M
+> - Competition Rules: https://www.ncaecybergames.org/rules/
+> - NCAE Discord: https://discord.ncaecybergames.org/
+> - Questions answered by NCAE staff (Discord):
+> 	- *"What is the line where an online service must be disclosed?"* https://discord.com/channels/624969095292518401/1339009691044544542
 
-### Least privilege
-- Configure user accounts with unique secure passwords for each member of the team?
-	- Should each have sudo/root access?
-		- If so, should the sudo password for each be unique?
-- ⭐ Change User/Password defaults
-	- ⭐ Microtik Router
-	- Webserver
-	- Kali Machines
-	- ???
-	- Remove / Disable / Change PWs of any default user accounts
+# Notes
 
-### Automated secure remote backups
-- ***Potential Solutions***
-	- `rsync` + `ssh` (with PKI keys) + `cron` (taught in NCAE YouTube playlist)
-		- Use proper nesting of the `ssh` command in quotes when using rsync via ssh w/ keys (`"ssh -i keyfile"`).
-		- What method to use to transfer key(s) to target systems?
-		- keep ssh keys for the automated backup using the root account in a separate root-only readable folder?
-- ***Should there be backups of...***
-	- ssh keys for passwordless access?
-	- Entire systems?
-		- webserver?
-		- router? (How feasible is this w/ the microtik router?)
-		- other (???)
-- Where should backups be stored? On which host(s)? Multiple hosts?
-- Is *encrypting* backups feasible—i.e. is there enough time and compute resources?
+### Sandbox Tutorial Video Notes
+Notes from NCAE's Sandbox Tutorial Videos. These use the Mini Hack environment to teach players some fundamental concepts you might need for the competition.
+- [[NCAE Tutorial Playlist Notes]]
 
-### Monitoring
-- LOGS 🎶🎸🌲🪓🎸🎶
-- ???
+# Preparing a Game Plan
+*Players might find this information useful when developing a strategy.*
 
-### Known Unknowns
-- ***Network Topology***
-	- IPs (team number) + Netmasks
-- ***We will have external internet access, therefore...***
-	- Will we need to patch any systems?
-		- This could involve running vulnerability scans and deploying patches.
-		- If patches are unavailable, will require implementation of compensating controls.
-- ***Specific Host Information***
-	- How many hosts are in our control?
-	- What OS/distro/software do they have?
-	- ⭐ ***Services***
-		- Which services are configured by default?
-		- Which services increase our attack surface?
-		- What services are necessary to accomplish our goal(s)?
-		- Which services have widely-known default values?
-	- ⭐ ***Router***
-		- What's allowed through by default?
-		- What do we allow through?
-		- What do we block?
+### SPICE Configuration
+**Copy/paste and automatic guest screen resizing are not available via the default in-browser remote desktop experience NCAE provides.** If you want these features, you should make sure you know how to set them up:
+- [[SPICE Configuration - Remote Desktop Shared Clipboard and Screen Resizing]]
+
+### System Hardening
+A brainstormed list of potential attack vectors and corresponding defenses:
+- [[System Hardening Ideas]]
+
+### Misc.
+Most of these are either in-progress, incomplete, or disorganized:
+- [[NCAE misc]]
+- [[NCAE-minihack CentOS]]
+- [[Example Scripts]]
+- [[Other Tools to Consider]]
+- [[Quickdraw Notes]]
