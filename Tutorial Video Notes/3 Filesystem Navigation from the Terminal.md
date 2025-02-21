@@ -1,5 +1,5 @@
-Video 3
-https://www.youtube.com/watch?v=lI0mUMqBesU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=3
+# Video 3
+![](https://www.youtube.com/watch?v=lI0mUMqBesU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=3)
 
 - **Opening the Terminal**    
     - Use GUI options like **right-click → Open Terminal** or search for "Terminal" in applications.
@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=lI0mUMqBesU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - **Use Tab for auto-completion** to avoid typing errors.
     - You can move multiple folders at once with `cd /home/sandbox/Desktop`.
     - The tilde `~` represents **your home directory**, which varies by user.
+
+
+---
+#### Next in Playlist: [[4 Making Directories and Understanding Filepaths]]

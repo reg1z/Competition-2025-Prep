@@ -1,5 +1,5 @@
 # Video 12
-https://www.youtube.com/watch?v=7IsIjTBK7kk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=12
+![](https://www.youtube.com/watch?v=7IsIjTBK7kk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=12)
 
 - **Exploring the Sudoers File**
     - The sudoers file (`/etc/sudoers`) controls which users can execute commands with `sudo`.
@@ -20,3 +20,7 @@ https://www.youtube.com/watch?v=7IsIjTBK7kk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - `sudo userdel <username>` removes a user account.
     - `sudo userdel -r <username>` deletes the user **and their home directory**.
     - If a deleted user owned files, Linux assigns them to a **numerical user ID**.
+
+
+---
+#### Next in Playlist: [[13 Groups]]

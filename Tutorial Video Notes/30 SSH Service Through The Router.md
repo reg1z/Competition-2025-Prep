@@ -1,5 +1,5 @@
 # Video 30
-https://www.youtube.com/watch?v=NzitxTqu2o0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=30
+![](https://www.youtube.com/watch?v=NzitxTqu2o0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=30)
 
 - **Understanding SSH Access Through a Router**
     - The setup involves an **external Kali machine**, a **CentOS router**, and **internal systems**.
@@ -50,3 +50,8 @@ https://www.youtube.com/watch?v=NzitxTqu2o0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - **Allowing SSH as a service** lets users connect **directly to the router**.
     - **Port forwarding** routes SSH traffic **to an internal device** instead.
     - Administrators must decide **which setup is best** based on security needs.
+
+
+---
+
+#### Next in Playlist: [[31 DNS Service Basics]]

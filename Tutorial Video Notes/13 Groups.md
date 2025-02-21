@@ -1,5 +1,5 @@
 # Video 13
-https://www.youtube.com/watch?v=BJJBSUe5JEk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=13
+![](https://www.youtube.com/watch?v=BJJBSUe5JEk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=13)
 
 - **Understanding User Groups**  
 	- Every user belongs to at least **one group**, often named after the user.  
@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=BJJBSUe5JEk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 	- Users in the `sudo` group can execute **admin commands**.  
 	- `sudo usermod -aG sudo <user>` grants **sudo privileges**.
 	- Users must belong to a **group listed in `/etc/sudoers`** to run `sudo` commands.  
+
+
+---
+#### Next in Playlist: [[14 Passwords and Shadow Hashes]]

@@ -1,5 +1,5 @@
-Video 7
-https://www.youtube.com/watch?v=2DcDQe8idtU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=7
+# Video 7
+![](https://www.youtube.com/watch?v=2DcDQe8idtU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=7)
 
 - **Creating Files with `touch`**  
 	- `touch <filename>` creates an empty file.  
@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=2DcDQe8idtU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 	- `grep "word" <filename>` finds lines containing a specific word.  
 	- `grep -i "word" <filename>` makes the search **case-insensitive**.  
 	- `grep -r "word" <directory>` searches recursively in a directory.  
+
+
+---
+#### Next in Playlist: [[8 Editing with Nano or Vi]]

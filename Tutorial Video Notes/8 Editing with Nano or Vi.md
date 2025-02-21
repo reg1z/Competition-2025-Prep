@@ -1,5 +1,5 @@
-Video 8
-https://www.youtube.com/watch?v=rR_n2ciilrc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=8
+# Video 8
+![](https://www.youtube.com/watch?v=rR_n2ciilrc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=8)
 
 - **Editing Files with `nano`**  
 	- `nano <filename>` opens a file in a simple text editor.  
@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=rR_n2ciilrc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 - **Working with Multiple Terminals**  
 	- Opening multiple terminals helps manage **simultaneous tasks**.  
 	- Useful for **monitoring changes** while editing files.
+
+---
+#### Next in Playlist: [[9 Creating Files with Editors and Deleting Files]]

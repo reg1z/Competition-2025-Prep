@@ -1,5 +1,5 @@
 # Video 34
-https://www.youtube.com/watch?v=sF_hxz4lZk0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=34
+![](https://www.youtube.com/watch?v=sF_hxz4lZk0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=34)
 
 - **Introduction to Rsync for Automation and Backups**
     - Rsync is a **powerful Linux utility** used for **file synchronization and backups**.
@@ -37,3 +37,7 @@ https://www.youtube.com/watch?v=sF_hxz4lZk0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Rsync is ideal for **fast, efficient, and incremental backups**.
     - The `-av` options provide **preservation and clarity**, while `--delete` ensures **synchronization**.
     - Understanding Rsync’s behavior helps **prevent data loss and optimize backup workflows**.
+
+---
+
+#### Next in Playlist: [[35 Cron Service Intro]]

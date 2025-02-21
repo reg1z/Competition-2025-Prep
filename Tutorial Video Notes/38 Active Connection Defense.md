@@ -1,5 +1,57 @@
+## Tools
+
+### `netstat`
+Lists out network connection statistics
+
+- `netstat -tu` -> filter only connections to tcp and udp 
+	- -tun -> resolve names to corresponding port
+	- -tuna -> also print out listening connections
+	- -tunap -> also get process ids (PID) for each connection process. requires sudo
+- `netstat | grep ESTABLISHED`
+
+### `ss`
+Similar to `netstat`. Alternative
+
+### `kill`
+Kill malicious processes / red team connections!
+
+- `kill <pid>`
+- 
+
+### `pkill`
+Similar to `kill`, allowing for more specific targets.
+- killing by userid/name, etc...
+- Don't accidentally kill your own/team's sessions!
+
+### `w`
+Shows who is logged in and from where
+
+### `top` / `htop`
+A lot like task manager, but in the CLI
+
+
+### `ps`
+Search active processes. Nuanced options
+
+
+## Communication with users / teammates!
+
+### `wall`
+"Broadcasts" a message to all users
+- `wall "Server shutting down in 5 minutes. Please save your work.`
+
+### `write`
+Send basic DMs to a target user.
+- `sudo write bob pts/2`
+
+## Red Flags
+- random scripts running in the background
+- new malicious cronjobs
+
+---
+
 # Video 38
-https://www.youtube.com/watch?v=37-6lgYtGGw&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=38
+![](https://www.youtube.com/watch?v=37-6lgYtGGw&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=38)
 
 - **Monitoring Active Connections for Security**
     - Attackers often maintain **active connections** to compromised systems.
@@ -55,53 +107,5 @@ https://www.youtube.com/watch?v=37-6lgYtGGw&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Combining **reactive defense (kill, pkill) with proactive measures (UFW, key-based SSH)** ensures a **more secure system**.
 
 ---
-## Tools
 
-### `netstat`
-Lists out network connection statistics
-
-- `netstat -tu` -> filter only connections to tcp and udp 
-	- -tun -> resolve names to corresponding port
-	- -tuna -> also print out listening connections
-	- -tunap -> also get process ids (PID) for each connection process. requires sudo
-- `netstat | grep ESTABLISHED`
-
-### `ss`
-Similar to `netstat`. Alternative
-
-### `kill`
-Kill malicious processes / red team connections!
-
-- `kill <pid>`
-- 
-
-### `pkill`
-Similar to `kill`, allowing for more specific targets.
-- killing by userid/name, etc...
-- Don't accidentally kill your own/team's sessions!
-
-### `w`
-Shows who is logged in and from where
-
-### `top` / `htop`
-A lot like task manager, but in the CLI
-
-
-### `ps`
-Search active processes. Nuanced options
-
-
-## Communication with users / teammates!
-
-### `wall`
-"Broadcasts" a message to all users
-- `wall "Server shutting down in 5 minutes. Please save your work.`
-
-### `write`
-Send basic DMs to a target user.
-- `sudo write bob pts/2`
-
-## Red Flags
-- random scripts running in the background
-- new malicious cronjobs
-
+#### Next in Playlist: [[39-43 Scripting]]

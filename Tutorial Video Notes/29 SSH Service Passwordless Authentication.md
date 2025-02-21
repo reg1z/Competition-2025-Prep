@@ -1,5 +1,5 @@
 # Video 29
-https://www.youtube.com/watch?v=MBmWgXb73gE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=29
+![](https://www.youtube.com/watch?v=MBmWgXb73gE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=29)
 
 - **Setting Up SSH Passwordless Authentication**
     - SSH allows **logging into a remote system without a password** using public-private key pairs.
@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=MBmWgXb73gE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Keys eliminate **brute-force attacks on SSH passwords**.
     - If a private key is compromised, an attacker **gains full access** to the account.
     - Regularly rotating SSH keys and securing private keys is **essential for system security**.
+
+---
+
+#### Next in Playlist: [[30 SSH Service Through The Router]]

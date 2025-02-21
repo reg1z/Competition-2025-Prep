@@ -1,5 +1,5 @@
 # Video 22
-https://www.youtube.com/watch?v=von08e7PlWk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=22
+![](https://www.youtube.com/watch?v=von08e7PlWk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=22)
 
 - **Adding Temporary IP Addresses**
     - `ip addr add <IP>/<subnet> dev <interface>` assigns a temporary IP.
@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=von08e7PlWk&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Temporary IPs are useful for **testing or short-term changes**.
     - Permanent configurations ensure **reliable networking across reboots**.
     - Always update configuration files for **long-term network stability**.
+
+
+---
+#### Next in Playlist: [[23 Using Networking Service with Netcat]]

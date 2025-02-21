@@ -1,5 +1,5 @@
 # Video 33
-https://www.youtube.com/watch?v=AdPaZOU-ngM&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=34
+![](https://www.youtube.com/watch?v=AdPaZOU-ngM&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=34)
 
 - **Allowing External DNS Queries Through the Router**
     - The internal DNS server works for local devices, but external queries must be forwarded through the router.
@@ -57,3 +57,8 @@ https://www.youtube.com/watch?v=AdPaZOU-ngM&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Be mindful of which DNS queries are **internally vs. externally accessible**.
     - Testing DNS resolution **step by step** (local, internal, external) helps **debug issues efficiently**.
     - Proper DNS configuration improves **usability and security** while reducing reliance on direct IP addresses.
+
+
+---
+
+#### Next in Playlist: [[34 Rsync Service Basics]]

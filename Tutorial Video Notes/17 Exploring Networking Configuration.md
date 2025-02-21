@@ -1,5 +1,5 @@
 # Video 17
-https://www.youtube.com/watch?v=CfLYrLpsUsQ&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=17
+![](https://www.youtube.com/watch?v=CfLYrLpsUsQ&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=17)
 
 - **Understanding Network Configuration**  
 	- Networking is a **fundamental service** for system communication.  
@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=CfLYrLpsUsQ&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 	- Running `ip a` helps **verify network status**.  
 	- Identifying **active interfaces** prevents configuration mistakes.  
 	- Knowing the **correct interface name** is crucial for applying settings.  
+
+
+---
+#### Next in Playlist: [[18 Static Configuration in Kali with Interfaces File]]

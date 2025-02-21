@@ -1,5 +1,5 @@
-Video 2
-https://www.youtube.com/watch?v=N9j--n-zGgc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=2
+# Video 2
+![](https://www.youtube.com/watch?v=N9j--n-zGgc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=2)
 
 - **Understanding the Linux File System**
     - Linux uses a **hierarchical file structure** starting at `/` (root).
@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=N9j--n-zGgc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Many servers and cybersecurity tools run **without a GUI**.
     - Mastering commands is essential for **system administration** and security.
 
+
+---
+#### Next in Playlist: [[3 Filesystem Navigation from the Terminal]]

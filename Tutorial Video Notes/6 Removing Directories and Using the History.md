@@ -1,5 +1,5 @@
-Video 6
-https://www.youtube.com/watch?v=twREXouRxns&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=6
+# Video 6
+![](https://www.youtube.com/watch?v=twREXouRxns&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=6)
 
 - **Removing Directories with `rmdir`**
     - `rmdir` (Remove Directory) deletes empty folders.
@@ -14,3 +14,7 @@ https://www.youtube.com/watch?v=twREXouRxns&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Use `!<command_number>` to re-run a specific command.
     - Find the number using `history` and execute `!12` to run command #12.
     - Avoids excessive **scrolling through history** with arrow keys.
+
+
+---
+#### Next in Playlist: [[7 Creating and Reading Files]]

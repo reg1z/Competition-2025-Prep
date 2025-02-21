@@ -1,5 +1,5 @@
 # Video 23
-https://www.youtube.com/watch?v=_aIac8hweAg&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=23
+![](https://www.youtube.com/watch?v=_aIac8hweAg&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=23)
 
 - **Understanding Netcat (`nc`) for Network Testing**
     - `nc` (Netcat) is a low-level tool for **sending and receiving network data**.
@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=_aIac8hweAg&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Restricting open ports prevents **unauthorized remote connections**.
     - Firewalls and security policies should block **unnecessary services**.
     - Running `nc -l -p <port>` in a loop (e.g., via Python) **creates persistent backdoors**.
+
+
+---
+#### Next in Playlist: [[24 Web Services with Apache]]

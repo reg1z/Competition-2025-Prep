@@ -1,5 +1,8 @@
 # Video 26
-https://www.youtube.com/watch?v=AujsQji3A1Q&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=26
+> [!info]+ 
+> ==**NOTE:** Video 26 is a recap of the original Mini Hack and you might consider skipping it, or watching it explicitly for the methodology presented.==
+
+![](https://www.youtube.com/watch?v=AujsQji3A1Q&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=26)
 
 - **Reconfiguring the Mini Hack Environment**
     - The Mini Hack is reset by **deleting the previous environment** and creating a new one.
@@ -43,3 +46,7 @@ https://www.youtube.com/watch?v=AujsQji3A1Q&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - The `/etc/network/interfaces` file is updated manually to set static addressing.
     - Restarting networking services (`systemctl restart networking`) applies the new settings.
     - A `ping` test confirms connectivity between **Kali, the router, and the web server**.
+
+---
+
+#### Next in Playlist: [[27 SSH Service Basics]]

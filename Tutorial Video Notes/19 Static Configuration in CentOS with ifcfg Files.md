@@ -1,7 +1,11 @@
 # Video 19
-https://www.youtube.com/watch?v=fQPJNI6zI8g&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=19
+> [!warning]+ 
+> ⚠️ 💥 ⚠️ **NOTE:** You will not be using a CentOS router in the 2025 NCAE challenge!!!⚠️ 💥 ⚠️
+> 
+> ==**You can safely skip this video!**==
 
-==⚠️ 💥 ⚠️ NOTE: You will not be using a CentOS router in the 2025 NCAE challenge!!!⚠️ 💥 ⚠️==
+![](https://www.youtube.com/watch?v=fQPJNI6zI8g&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=19)
+
 
 - **Network Configuration in CentOS**
     - CentOS does **not use `/etc/network/interfaces`** like Debian-based systems.
@@ -27,3 +31,7 @@ https://www.youtube.com/watch?v=fQPJNI6zI8g&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Servers can have **multiple network interfaces** (`eth0`, `eth1`).
     - Each interface may connect to **different networks**, requiring separate configurations.
     - Configuring both correctly allows **proper network routing** and communication.
+
+
+---
+#### Next in Playlist: [[20 Static Configuration in Ubuntu with Netplan]]

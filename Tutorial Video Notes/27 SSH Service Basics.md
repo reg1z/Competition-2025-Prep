@@ -1,5 +1,5 @@
 # Video 27
-https://www.youtube.com/watch?v=krqJhN4Ld6s&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=27
+![](https://www.youtube.com/watch?v=krqJhN4Ld6s&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=27)
 
 - **Setting Up SSH on Ubuntu**
     - The Ubuntu machine will function as an **SSH server** alongside its web server role.
@@ -40,3 +40,8 @@ https://www.youtube.com/watch?v=krqJhN4Ld6s&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 - **Closing the SSH Session**
     - The `exit` command logs out of the SSH session, returning to the local machine.
     - Understanding SSH setup and configuration enables **secure remote administration**.
+
+
+---
+
+#### Next in Playlist: [[28 SSH Service Cryptographic Keys]]

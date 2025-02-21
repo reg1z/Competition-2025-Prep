@@ -1,5 +1,5 @@
-Video 10
-https://www.youtube.com/watch?v=rR_n2ciilrc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=8
+# Video 10
+![](https://www.youtube.com/watch?v=rR_n2ciilrc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=8)
 
 - **Checking Your Current User**
     - `whoami` displays the **current logged-in user**.
@@ -18,3 +18,7 @@ https://www.youtube.com/watch?v=rR_n2ciilrc&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 - **User Permissions**
     - User access and security depend on **permissions**.
     - Some actions require **administrator privileges** (`sudo`).
+
+
+---
+#### Next in Playlist: [[11 Managing Permissions and Sudo Users]]

@@ -1,5 +1,5 @@
-Video 9
-https://www.youtube.com/watch?v=l0d7ks9ZkjU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=9
+# Video 9
+![](https://www.youtube.com/watch?v=l0d7ks9ZkjU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=9)
 
 - **Creating Files with Text Editors**
     - Running `nano <filename>` or `vi <filename>` on a non-existent file **creates a new file**.
@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=l0d7ks9ZkjU&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - `rm <filename>` removes a file permanently.
     - Can delete **multiple files** at once by listing filenames.
     - Running `rm` on non-existent files returns an error.
+
+---
+#### Next in Playlist: [[10 Creating User Accounts]]

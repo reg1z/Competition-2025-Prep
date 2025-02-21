@@ -1,5 +1,5 @@
 # Video 21
-https://www.youtube.com/watch?v=DROCT3-hU3c&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=21
+![](https://www.youtube.com/watch?v=DROCT3-hU3c&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=21)
 
 - **Using `ping` to Test Network Connectivity**
     - `ping <IP>` sends test packets to check if a device is reachable.
@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=DROCT3-hU3c&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Helps identify whether an issue is **device-specific or network-wide**.
     - Can be used to test **router and gateway connectivity**.
     - Understanding ping failures helps diagnose **firewall, routing, or misconfiguration issues**.
+
+
+---
+#### Next in Playlist: [[22 Temporary Permanent and Flushing IPs]]

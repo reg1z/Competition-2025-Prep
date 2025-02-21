@@ -1,5 +1,5 @@
-Video 4
-https://www.youtube.com/watch?v=7JYJO_D8zVs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=4
+# Video 4
+![](https://www.youtube.com/watch?v=7JYJO_D8zVs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=4)
 
 - **Creating Directories with `mkdir`**  
 	- `mkdir` (Make Directory) creates new folders.  
@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=7JYJO_D8zVs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 - **Navigating and Understanding File Structure**  
 	- GUI requires navigation to a folder before creating files, but the command line allows creation anywhere.  
 	- Tilde `~` represents the user's home directory, making it a shortcut for specifying locations.  
+
+
+---
+#### Next in Playlist: [[5 Moving and Copying]]

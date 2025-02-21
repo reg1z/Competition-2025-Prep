@@ -1,5 +1,5 @@
-## Video 1
-https://www.youtube.com/watch?v=hL9pTiRNPqE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=1
+# Video 1
+![](https://www.youtube.com/watch?v=hL9pTiRNPqE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=1)
 
 - **Mini Hack Overview**
     - A sandboxed **practice environment** for cybersecurity skills on **C2 Games**.
@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=hL9pTiRNPqE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - **Command Compatibility** – Some commands differ between distributions.
 - **Why Practice on Different Distributions?**
     - Builds adaptability, troubleshooting skills, and system administration experience.
+
+---
+#### Next in Playlist: [[2 Linux Commands and File System]]

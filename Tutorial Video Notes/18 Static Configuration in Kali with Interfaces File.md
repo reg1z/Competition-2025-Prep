@@ -1,5 +1,5 @@
 # Video 18
-https://www.youtube.com/watch?v=6AG68GIMw5o&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=18
+![](https://www.youtube.com/watch?v=6AG68GIMw5o&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=18)
 
 - **Understanding Static IP Configuration**
     - Linux assigns IP addresses dynamically unless configured manually.
@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=6AG68GIMw5o&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Some networks require **specific IP addresses** to function.
     - Dynamic (DHCP) vs. Static IPs depend on **network infrastructure**.
 	- Configurations must **match the expected settings** to maintain connectivity.
+
+
+---
+#### Next in Playlist: [[19 Static Configuration in CentOS with ifcfg Files]]

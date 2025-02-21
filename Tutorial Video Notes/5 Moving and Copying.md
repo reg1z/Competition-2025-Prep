@@ -1,5 +1,5 @@
-Video 5
-https://www.youtube.com/watch?v=gSVg40u0fZE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=5
+# Video 5
+![](https://www.youtube.com/watch?v=gSVg40u0fZE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=5)
 
 - **Moving Files and Directories with `mv`**  
 	- `mv` (Move) command performs a **cut and paste** in one step.  
@@ -18,3 +18,7 @@ https://www.youtube.com/watch?v=gSVg40u0fZE&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 	- Many commands support **options** like `-r` for recursive copying.  
 	- Options **modify behavior** and are useful when handling directories.  
 	- `Tab` completion helps avoid typos and speeds up command execution.  
+
+
+---
+#### Next in Playlist: [[6 Removing Directories and Using the History]]

@@ -1,5 +1,5 @@
 # Video 15
-https://www.youtube.com/watch?v=2neT3phfYts&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=15
+![](https://www.youtube.com/watch?v=2neT3phfYts&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=15)
 
 - **Viewing Large Files with `less`**  
 	- `less <filename>` opens a file for **scrolling through long outputs**.  
@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=2neT3phfYts&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
 	- Commands can be **chained** using pipes (`|`) to **filter and process** data.  
 	- Example: `ls /etc | grep conf | less` finds **config files** and scrolls through them.  
 	- Efficient command usage **improves data management** and security.  
+
+
+---
+#### Next in Playlist: [[16 Background on Services]]

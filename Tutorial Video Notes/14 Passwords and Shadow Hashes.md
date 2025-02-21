@@ -1,5 +1,5 @@
 # Video 14
-https://www.youtube.com/watch?v=P-BJP9wVH_U&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=14
+![](https://www.youtube.com/watch?v=P-BJP9wVH_U&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=14)
 
 - **Changing User Passwords**
     - `passwd` allows users to **change their own password**.
@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=P-BJP9wVH_U&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Hackers attempt **brute force or dictionary attacks** to crack hashes.
     - Adding **salt** makes it harder to use precomputed attack tables.
     - `sudo chage -l <username>` checks password expiration policies.
+
+
+---
+#### Next in Playlist: [[15 Less, Grep, and Pipe]]

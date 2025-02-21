@@ -1,5 +1,5 @@
 # Video 37
-https://www.youtube.com/watch?v=DAaLyKDzxl4&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=37
+![](https://www.youtube.com/watch?v=DAaLyKDzxl4&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=37)
 
 - **Introduction to Firewalls and UFW**
     - Firewalls are a **critical security defense** in cybersecurity, controlling inbound and outbound traffic.
@@ -100,3 +100,8 @@ https://www.youtube.com/watch?v=DAaLyKDzxl4&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - UFW is a **user-friendly way** to secure Ubuntu-based servers and workstations.
     - Understanding **how rules process and interact** prevents conflicts and misconfigurations.
     - In competitions, firewalls should be configured to **allow only necessary traffic** while blocking unauthorized access.
+
+
+---
+
+#### Next in Playlist: [[38 Active Connection Defense]]

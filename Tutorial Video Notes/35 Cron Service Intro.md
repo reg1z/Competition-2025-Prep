@@ -1,5 +1,5 @@
 # Video 35
-https://www.youtube.com/watch?v=Bc6ykGMooiY&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=35
+![](https://www.youtube.com/watch?v=Bc6ykGMooiY&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=35)
 
 - **Introduction to Cron Service for Automation**
     - The **cron service** is a built-in Linux tool that allows administrators to **schedule and automate tasks**.
@@ -75,3 +75,8 @@ https://www.youtube.com/watch?v=Bc6ykGMooiY&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Cron is a **powerful tool** for scheduling system tasks, backups, and maintenance.
     - Understanding **user-specific vs. system-wide cron jobs** is essential for security.
     - Regular auditing ensures that **cron jobs are legitimate and not exploited by attackers**.
+
+
+---
+
+#### Next in Playlist: [[36 Rsync and Cron Automatic Secure Backups]]

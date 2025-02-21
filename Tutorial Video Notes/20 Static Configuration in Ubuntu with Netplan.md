@@ -1,5 +1,5 @@
 # Video 20
-https://www.youtube.com/watch?v=3vbFNmnJCl0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=20
+![](https://www.youtube.com/watch?v=3vbFNmnJCl0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=20)
 
 - **Network Configuration in Ubuntu Using Netplan**
     - Ubuntu **no longer uses** `/etc/network/interfaces` for network configuration.
@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=3vbFNmnJCl0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Ubuntu’s Netplan is different from Kali’s `/etc/network/interfaces`.
     - CentOS uses **`ifcfg-eth0` files** instead of Netplan.
 	- Learning distribution-specific networking tools **improves troubleshooting skills**.
+
+
+---
+#### Next in Playlist: [[21 Testing Connectivity with Ping]]

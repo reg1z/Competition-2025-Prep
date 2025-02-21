@@ -1,5 +1,5 @@
 # Video 36
-https://www.youtube.com/watch?v=SrPBebFADDM&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=36
+![](https://www.youtube.com/watch?v=SrPBebFADDM&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=36)
 
 - **Expanding Rsync for Secure Backups Across a Network**
     - The goal is to move beyond local Rsync backups and securely transfer data to another machine on the network.
@@ -65,3 +65,8 @@ https://www.youtube.com/watch?v=SrPBebFADDM&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Rsync combined with SSH provides **a secure and efficient backup solution**.
     - Automating with cron ensures **regular backups without manual intervention**.
     - Proper security measures, including **SSH key management and offline backups**, help **protect critical data**.
+
+
+---
+
+#### Next in Playlist: [[37 Intro to Firewalls with UFW]]

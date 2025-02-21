@@ -1,5 +1,5 @@
 # Video 11
-https://www.youtube.com/watch?v=to0GrfGERK0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=11
+![](https://www.youtube.com/watch?v=to0GrfGERK0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=11)
 
 - **Understanding File Permissions**
     - `ls -l` displays file **permissions**, owner, and group.
@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=to0GrfGERK0&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Removing write permissions restricts users from **modifying files**.
     - Group and user permissions define **who can access and modify data**.
 
+
+---
+#### Next in Playlist: [[12 Exploring Sudoers and Removing Users]]

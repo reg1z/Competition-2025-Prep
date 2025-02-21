@@ -1,5 +1,5 @@
 # Video 16
-https://www.youtube.com/watch?v=-FjEEoLUb64&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=16
+![](https://www.youtube.com/watch?v=-FjEEoLUb64&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=16)
 
 - **Understanding Services in Linux**
     - Services are background programs that **manage system functionality**.
@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=-FjEEoLUb64&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Ensure a service is **running** before assuming it works.
     - Some services are **disabled by default** and must be started manually.
     - Using commands like `systemctl status <service>` helps **verify service status**.
+
+
+---
+#### Next in Playlist: [[17 Exploring Networking Configuration]]

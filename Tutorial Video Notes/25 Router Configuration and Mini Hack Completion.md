@@ -1,5 +1,12 @@
 # Video 25
-https://www.youtube.com/watch?v=nm680gA5dXQ&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=25
+> [!warning]+
+> ==⚠️ 💥 ⚠️ NOTE: You will not be using a CentOS router in the 2025 NCAE challenge!!!⚠️ 💥 ⚠️==
+> 
+> ==⚠️ 💥 ⚠At this point it is recommended you skip this video and do the current year's Mini Hack before continuing with the rest of the playlist!!!⚠️ 💥 ⚠==
+> 
+> **⭐ Mini Hack 2025: [[44 MicroTik Routers and Mini Hack 2025]] ⭐**
+
+![](https://www.youtube.com/watch?v=nm680gA5dXQ&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=25)
 
 - **Configuring the Router in Mini Hack**
     - The router is set up using **CentOS** with two network interfaces.
@@ -37,3 +44,7 @@ https://www.youtube.com/watch?v=nm680gA5dXQ&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - A fully functional router allows internal devices to access external networks.
     - Port forwarding ensures **external web access is properly redirected**.
     - Understanding **firewall zones, masquerading, and gateways** is key to successful routing.
+
+
+---
+#### Next in Playlist: [[26 Mini Hack Reconfiguration]]

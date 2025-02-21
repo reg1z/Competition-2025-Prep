@@ -1,5 +1,5 @@
 # Video 31
-https://www.youtube.com/watch?v=mpVX4jxF4ww&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=31
+![](https://www.youtube.com/watch?v=mpVX4jxF4ww&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=31)
 
 - **Introduction to DNS Basics**
     - DNS (Domain Name System) is one of the **most challenging services** to configure.
@@ -92,3 +92,7 @@ https://www.youtube.com/watch?v=mpVX4jxF4ww&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Refreshing a web browser with `www.ncaecybergames.org` should load the correct webpage.
     - Reverse lookups should successfully return **the domain associated with the IP**.
     - A properly configured DNS server enables **efficient domain resolution in the Mini Hack environment**.
+
+---
+
+#### Next in Playlist: [[32 DNS Service Additional Zones]]

@@ -1,5 +1,5 @@
 # Video 24
-https://www.youtube.com/watch?v=PFvFsiLSu94&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=24
+![](https://www.youtube.com/watch?v=PFvFsiLSu94&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=24)
 
 - **Checking Installed Web Services**
     - Web services can run on **different software**, such as Apache, Nginx, or HTTPD.
@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=PFvFsiLSu94&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - `systemctl enable apache2` ensures the web server **starts on reboot**.
     - `systemctl disable apache2` prevents it from starting automatically.
     - Checking `systemctl status apache2` helps differentiate between a **disabled** and **stopped** service.
+
+
+---
+#### Next in Playlist: [[25 Router Configuration and Mini Hack Completion]]

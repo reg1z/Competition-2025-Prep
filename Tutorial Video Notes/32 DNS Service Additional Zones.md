@@ -1,5 +1,5 @@
 # Video 32
-https://www.youtube.com/watch?v=y2-w9m4yvqw&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=32
+![](https://www.youtube.com/watch?v=y2-w9m4yvqw&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=32)
 
 - **Configuring Additional DNS Clients**
     - The existing **DNS server is hosted on Ubuntu** and resolves internal domains.
@@ -45,3 +45,7 @@ https://www.youtube.com/watch?v=y2-w9m4yvqw&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - The updated DNS server now resolves both forward (`score.ncaecybergames.org → 172.20.0.1`) and reverse (`172.20.0.1 → score.ncaecybergames.org`).
     - Other devices on the network can now use the **configured DNS service** to resolve names.
     - A browser test confirms seamless access to the scoreboard using its domain instead of an IP address.
+
+---
+
+#### Next in Playlist: [[33 DNS Service Through The Router]]

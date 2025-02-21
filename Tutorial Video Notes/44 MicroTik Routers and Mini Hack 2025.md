@@ -28,7 +28,12 @@
 
 
 # Video 44
-https://www.youtube.com/watch?v=gu5A2yCITRs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=45
+> [!info]+ 
+> If you're here from [[25 Router Configuration and Mini Hack Completion|Video 25]], you can head to where you'd normally continue after here: [[26 Mini Hack Reconfiguration]]
+> 
+> ==**NOTE:** Video 26 is a recap of the original Mini Hack and you might consider skipping it, or watching explicitly it for the methodology presented.==
+
+![](https://www.youtube.com/watch?v=gu5A2yCITRs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=45)
 
 - **Transitioning to MikroTik Routers for 2025 Mini Hack**
     - The competition is moving away from **CentOS-based routers** due to end-of-life support.
@@ -130,3 +135,7 @@ https://www.youtube.com/watch?v=gu5A2yCITRs&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ10
     - Port forwarding, NAT, and firewall rules **mirror real-world router configurations**.
     - Competitors should practice both **GUI and CLI methods** for better adaptability.
     - Security implications (open services, password handling) must be **carefully considered**.
+
+
+---
+#### Next in Playlist: [[26 Mini Hack Reconfiguration]]
