@@ -1,0 +1,27 @@
+# Video 14
+https://www.youtube.com/watch?v=P-BJP9wVH_U&list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M&index=14
+
+- **Changing User Passwords**
+    - `passwd` allows users to **change their own password**.
+    - Running `sudo passwd <username>` allows **changing another user's password**.
+    - Some systems **enforce password complexity**, rejecting weak passwords.
+- **Understanding the `/etc/passwd` File**
+    - `/etc/passwd` contains **user account details** but **not passwords**.
+    - Lists **usernames, home directories, and shell programs**.
+    - Each entry includes **colon-separated fields** for user metadata.
+- **Storing Password Hashes in `/etc/shadow`**
+    - `/etc/shadow` holds **hashed passwords**, not plain text.
+    - Only **root users** can view the shadow file (`sudo cat /etc/shadow`).
+    - Passwords are stored as **hashed values** with added "salt" for security.
+- **How Password Hashing Works**
+    - Linux **hashes passwords** before storing them in `/etc/shadow`.
+    - Hashing ensures **passwords aren’t stored as plain text**.
+    - Login attempts **rehash input** and compare it to stored values.
+- **Using Python to Generate Hashes**
+    - Python’s `crypt` module can **simulate password hashing**.
+    - Running `crypt.crypt("password", "$6$salt")` generates a **hashed password**.
+    - Changing **one character** in input **completely alters** the hash output.
+- **Security Implications of Stolen Hashes**
+    - Hackers attempt **brute force or dictionary attacks** to crack hashes.
+    - Adding **salt** makes it harder to use precomputed attack tables.
+    - `sudo chage -l <username>` checks password expiration policies.

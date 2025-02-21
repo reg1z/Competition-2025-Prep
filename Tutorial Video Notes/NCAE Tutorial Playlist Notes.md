@@ -5,7 +5,7 @@ YouTube Playlist link: https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZW
 
 # Notes:
 - ...
-- [[37 Firewalls]]
+- [[37 Intro to Firewalls with UFW]]
 - [[38 Active Connection Defense]]
 - [[39-43 Scripting]]
 - [[44 MicroTik Routers and Mini Hack 2025]] <- This is the Mini Hack you should be doing in 2025 (not the old CentOS one)
