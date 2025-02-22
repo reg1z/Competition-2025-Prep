@@ -26,7 +26,8 @@ This page (the README) is intended to be the homepage within this vault. You can
 
 ### Sandbox Tutorial Video Notes
 Notes from NCAE's Sandbox Tutorial Videos. These use the Mini Hack environment to teach players some fundamental concepts you might need for the competition.
-- [[NCAE Tutorial Playlist Notes]]
+- [[NCAE Tutorial Playlist Notes| Tutorial Playlist Table of Contents]]
+	- Or start from the beginning: [[1 Intro to the Environment]]
 
 # Preparing a Game Plan
 *Players might find this information useful when developing a strategy.*

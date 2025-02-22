@@ -9,4 +9,9 @@ Network Security Monitoring
 	- Manually...
 	- Zeek
 
+SSH
+- SSH Proxying (Port Forwarding)
+- Copying files via `scp`
+	- recursive option
+
 ...
