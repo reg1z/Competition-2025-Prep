@@ -2,7 +2,7 @@
 *Shared Clipboard (copy/paste) & Automatic Screen Resizing*
 
 ## **TO PREPARE:**
-- Install `virt-viewer` on the PC / VM you'll be using to compete.
+- Install `virt-viewer` on the ==**Local** PC / VM== you'll be using to compete.
 	- **Link (scroll down):** https://virt-manager.org/download
 		- .MSI installer for Windows
 		- .tar.xz for UNIX
